@@ -1,5 +1,5 @@
 # Messenger
-A (badly) encrypted messenger for two parties. Just a project for learning purposes.
+A self encrypted messenger for two parties. Just a project for learning purposes.
 
 ---
 
